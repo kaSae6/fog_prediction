@@ -32,9 +32,9 @@ Prediction
 
 ## Documentation
 
-1. **[Model](Model/fog_prediction_saegner.ipynb)**
-2. **[Presentation](Presentation/PD_FoG_prediction_final.pdf)**
+1. **[Model](https://github.com/kaSae6/fog_prediction/blob/main/Model/fog_prediction_saegner.ipynb)**
+2. **[Presentation](https://github.com/kaSae6/fog_prediction/blob/main/Presentation/PD_FoG_prediction_final.pdf)**
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/fog_image.png)
+![Project Cover Image](https://github.com/kaSae6/fog_prediction/blob/main/CoverImage/fog_image.png)
