@@ -1,3 +1,3 @@
 # Model Definition and Evaluation
 
-**[Notebook](fog_prediction_saegner)**
+**[Notebook](fog_prediction_saegner.ipynb)**
